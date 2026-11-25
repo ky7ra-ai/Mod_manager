@@ -1,0 +1,3 @@
+-keep class com.kzeo.storm4modder.** { *; }
+-dontwarn org.apache.commons.compress.**
+-dontwarn com.github.junrar.**

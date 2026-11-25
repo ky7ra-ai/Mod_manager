@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KZEO Storm 4 Modder</string>
+    <string name="subtitle">NEXUS MODS AUTO-ROUTER &amp; REPACKER</string>
+    <string name="btn_grant_storage">IZINKAN AKSES PENYIMPANAN</string>
+    <string name="btn_auto_scan">AUTO SCAN GAME</string>
+    <string name="btn_browse_game">PILIH FOLDER</string>
+    <string name="btn_pick_mod">PILIH FILE MOD (.ZIP / .RAR / .7Z / .XFBIN)</string>
+    <string name="btn_install_direct">INSTALL LANGSUNG KE DATA_WIN32</string>
+    <string name="btn_repack_zip">REPACK ZIP UNTUK LAUNCHER</string>
+    <string name="btn_manage_installed">KELOLA MOD TERPASANG &amp; BACKUP</string>
+    <string name="btn_clear_log">BERSIHKAN LOG</string>
+</resources>
